@@ -10,10 +10,10 @@
 
 <h2>Programming Languages</h2>
 <div>
-   <img align="left" alt="Java" width="130px" height="40px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img align="left" alt="mysql" width="130px" height="40px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-   <img align="left" alt="html" width="130px" height="40px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="left" alt="css" width="130px" height="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="left" alt="Java" width="120px" height="40px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   <img align="left" alt="mysql" width="120px" height="40px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="left" alt="html" width="120px" height="40px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="left" alt="css" width="120px" height="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
  <!---
