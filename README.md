@@ -1,10 +1,10 @@
 <h1>Hi, it's Sondos</h1>
 <div>
 <p style="text-align: justify;">
-   ✨ Curious spirit 
-   ✨ Committed knowledge seeker
-   ✨ Artistic 
-   ✨ adventurous 
+   ✨ Curious spirit <br />
+   ✨ Committed knowledge seeker <br />
+   ✨ Artistic  <br />
+   ✨ Adventurous  <br />
     <p>
 </div>
 <div>
