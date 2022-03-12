@@ -1,7 +1,9 @@
 Enthusiastic and passionate computer science undergraduate, with extensive knowledge of Java, JavaFX, MySQL, HTML, CSS and good familiarity of C, PHP , SQL. Enjoys working independently or as a part of a development team. Has a curious spirit and realizes the value of the inner call that’s why a committed knowledge seeker. Artistic and ready for adventurous challenges.
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!---
+    <!---
 sondosaabed/sondosaabed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
