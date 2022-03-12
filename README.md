@@ -9,7 +9,7 @@
 </div>
 
 <div>
-   ![image](https://user-images.githubusercontent.com/65151701/158025287-7d06d2d0-b72a-49fb-9a64-6302b8909509.png)
+   <i class="fa-brands fa-java"></i>
    <i class="fa-brands fa-html5"></i>
    <i class="fa-brands fa-css3-alt"></i>
 </div>
