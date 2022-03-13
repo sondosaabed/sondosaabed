@@ -1,11 +1,9 @@
 <h1>Hi, it's Sondos</h1>
 <div>
-<p style="text-align: justify;">
-   <h3> 💫 Curious spirit </h3>
-   <h3> 📚 Committed knowledge seeker</h3> 
-   <h3> 🎨 Artistic</h3> 
-   <h3> 🤩 Adventurous</h3>  
-    <p>
+   💫 Curious spirit </br>
+   📚 Committed knowledge seeker</br> 
+   🎨 Artistic</br>
+   🤩 Adventurous</br>
 </div>
 
 <h2>Programming Languages</h2>
