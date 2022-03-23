@@ -4,8 +4,13 @@
 🎨 Artistic</br>
 🤩 Adventurous</br>
 
-<h2>Reach me by Email:</h2>
+<h2>Reach me by Email</h2>
 sondosahmedabed@gmail.com
+
+<h2>Education</h2>
+<h3>Birzeit University</h3>
+<p>Bachelor's, Computer Science
+Courses: Database systems, Data type and structures, Algorithm’s time complexity, Object-Oriented, Java, (C), Computing ethics, Discrete Mathematics, Boolean Algebra, Logic gates, Numbering Systems, Linear algebra.</p>
 
 <h2>Programming Languages</h2>
 <div>
