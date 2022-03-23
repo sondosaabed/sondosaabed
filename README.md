@@ -25,7 +25,7 @@
 <img alt="css" width="120px" height="35px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></br>
 </div>
 
+<div
 <h2>Reach me by Email</h2>
-<div>
 sondosahmedabed@gmail.com
 </div>
