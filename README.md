@@ -5,16 +5,22 @@
 🤩 Adventurous</br>
 
 <h2>Reach me by Email</h2>
+<div>
 sondosahmedabed@gmail.com
+</div>
 
 <h2>Education</h2>
+<div>
 <h3>Birzeit University</h3>
 <h4>Bachelor's, Computer Science</h4>
 <p>Courses: Database systems, Data type and structures, Algorithm’s time complexity, Object-Oriented, Java, (C), Computing ethics, Discrete Mathematics, Boolean Algebra, Logic gates, Numbering Systems, Linear algebra.</p>
+</div>
 
+<div>
 <h3>AMIDEAST</h3>
 <h4>English Access Scholarship, 2015-2019.</h4>
 <p>Courses: language instruction, public speaking, Cultural enrichment, leadership skills, Community service.</p>
+</div>
 
 <h2>Programming Languages</h2>
 <div>
