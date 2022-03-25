@@ -5,9 +5,9 @@
 🤩 Adventurous</br>
 <h2>Programming Languages</h2>
 <div>
-  <img alt="java" width="50px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797551-1d99b861-b999-47aa-bdeb-4ed7012b8327.png">
-  <img alt="javaFX" width="75px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797654-5a58036d-efe1-43f8-9f4c-6f94c7d7bf37.png">
-  <img alt="MySQL" width="75px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797957-96a0fdd1-1814-4a29-a580-cf0a35227fb5.png">
+  <img alt="java" width="100px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797551-1d99b861-b999-47aa-bdeb-4ed7012b8327.png">
+  <img alt="javaFX" width="150px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797654-5a58036d-efe1-43f8-9f4c-6f94c7d7bf37.png">
+  <img alt="MySQL" width="150px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797957-96a0fdd1-1814-4a29-a580-cf0a35227fb5.png"> 
   <img alt="html" width="45px" height="47px" src="https://user-images.githubusercontent.com/65151701/159797340-cd56f52a-d427-4d4c-ade9-3a66abe578ed.png">
   <img alt="css" width="45px" height="45px" src="https://user-images.githubusercontent.com/65151701/159797461-ae707c0e-3871-43ba-991e-b3dd40a73ac3.png">
   <img alt="PHP" width="85px" height="40px" src="https://user-images.githubusercontent.com/65151701/159798227-53089ad1-76c0-4262-a48c-73ef44e13c12.png">
@@ -17,9 +17,9 @@
 <h3>Birzeit University: Bachelor's, Computer Science</h3>
 <h4>= Database systems: bank managmnet system</h4>  
 <div>
-    <img alt="java" width="100px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797551-1d99b861-b999-47aa-bdeb-4ed7012b8327.png">
-  <img alt="javaFX" width="150px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797654-5a58036d-efe1-43f8-9f4c-6f94c7d7bf37.png">
-  <img alt="MySQL" width="150px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797957-96a0fdd1-1814-4a29-a580-cf0a35227fb5.png">
+   <img alt="java" width="50px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797551-1d99b861-b999-47aa-bdeb-4ed7012b8327.png">
+  <img alt="javaFX" width="75px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797654-5a58036d-efe1-43f8-9f4c-6f94c7d7bf37.png">
+  <img alt="MySQL" width="75px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797957-96a0fdd1-1814-4a29-a580-cf0a35227fb5.png">
 </div>
   <p>Project: https://github.com/sondosaabed/The-National-Bank</p> 
   <p>MySQL: https://github.com/sondosaabed/TNB-MySQL-</p>
