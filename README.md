@@ -34,8 +34,8 @@
   <p>Game: https://github.com/sondosaabed/Tic-Tac-Toe</p>
 <h4><br/>= Data type and structures:</h4>
 <div>
-  <img alt="java" width="100px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797551-1d99b861-b999-47aa-bdeb-4ed7012b8327.png">
-  <img alt="javaFX" width="150px" height="100px" src="https://user-images.githubusercontent.com/65151701/159797654-5a58036d-efe1-43f8-9f4c-6f94c7d7bf37.png">
+  <img alt="java" width="50px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797551-1d99b861-b999-47aa-bdeb-4ed7012b8327.png">
+  <img alt="javaFX" width="75px" height="50px" src="https://user-images.githubusercontent.com/65151701/159797654-5a58036d-efe1-43f8-9f4c-6f94c7d7bf37.png">
 </div>
 <p>LinkedList: https://github.com/sondosaabed/Tawjihi-School-Records</p>
     <p>Stack & Queue: https://github.com/sondosaabed/Stock-market</p>
