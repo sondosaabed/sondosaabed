@@ -11,7 +11,7 @@
   <img alt="html" width="90px" height="95px" src="https://user-images.githubusercontent.com/65151701/159797340-cd56f52a-d427-4d4c-ade9-3a66abe578ed.png">
   <img alt="css" width="90px" height="90px" src="https://user-images.githubusercontent.com/65151701/159797461-ae707c0e-3871-43ba-991e-b3dd40a73ac3.png">
   <img alt="PHP" width="170px" height="80px" src="https://user-images.githubusercontent.com/65151701/159798227-53089ad1-76c0-4262-a48c-73ef44e13c12.png"><br/>
-  <img alt="C" width="90px" height="80px" src="https://user-images.githubusercontent.com/65151701/159799569-2bcd7dab-8ef7-4b08-8325-9a900cf76a6a.png">
+  <img alt="C" width="70px" height="60px" src="https://user-images.githubusercontent.com/65151701/159799569-2bcd7dab-8ef7-4b08-8325-9a900cf76a6a.png">
 </div>
 <h2>Education</h2>
 <h3>Birzeit University: Bachelor's, Computer Science</h3>
