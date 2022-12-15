@@ -15,6 +15,11 @@
   <img alt="css" width="90px" height="90px" src="https://user-images.githubusercontent.com/65151701/159797461-ae707c0e-3871-43ba-991e-b3dd40a73ac3.png">
   <img alt="PHP" width="170px" height="80px" src="https://user-images.githubusercontent.com/65151701/159798227-53089ad1-76c0-4262-a48c-73ef44e13c12.png"><br/>
 </div>
+<h2>Voluntry Work</h2>
+<div> 
+  <p> Build a Java desktop application for ISEF participant Mays Bardan, Recovery of missing people DNA Management System. Started with user interface prototyping and ERD. Used JavaFX, Java, and build a database using MySQL. </p>
+  <p>https://github.com/sondosaabed/ROMP</p>
+</div>
 <h2>Education</h2>
 <h3>Birzeit University: Bachelor's, Computer Science</h3>
 <h4>= Database systems: bank managmnet system</h4>  
