@@ -59,5 +59,5 @@
 <h4><br/>= Other courses: Computing ethics, Discrete Mathematics, Boolean Algebra, Logic gates, Numbering Systems, Linear algebra.</h4>
 <div>
 <h2>Reach me by Email</h2>
-sondosahmedabed@gmail.com
+sondos@duck.com
 </div>
