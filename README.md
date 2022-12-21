@@ -9,5 +9,5 @@ Actually, I am a java Lover, I mean IT!
     I happen to be a Computer Science student in Birzeit University. Check out my pinned projects I worked for my courses down here!👇🏾 
 </div>
 <div> 
-  <p>For voluntry work I build a Java desktop application for ISEF participant Mays Bardan, Recovery of missing people DNA Management System. Started with user interface prototyping and ERD. Used JavaFX, Java, and build a database using MySQL. https://github.com/sondosaabed/ROMP</p>
+  <p>For voluntry work I build a Java desktop application for ISEF participant Mays Bardan, Recovery of missing people DNA Management System. https://github.com/sondosaabed/ROMP</p>
 </div>
