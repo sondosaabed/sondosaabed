@@ -5,7 +5,9 @@
 </p>
 <div align=center> 
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=midnight-purple)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=vision-friendly-dark)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
