@@ -6,7 +6,7 @@
 
 <div align=center> 
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&hide_longest_streak=false&hide_current_streak=false&hide_total_contributions=true)](https://git.io/streak-stats)
 ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=vision-friendly-dark)
 
 <h1 align=center>🧠Additional Pins!🫀</h1>
