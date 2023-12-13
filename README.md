@@ -6,8 +6,8 @@
 
 <div align=center> 
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark)](https://git.io/streak-stats)
- ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=50px) 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark)](https://git.io/streak-stats)             
+ ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=50px)         
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align=center>🧠Additional Pins!🫀</h1>
 
