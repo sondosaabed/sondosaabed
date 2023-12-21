@@ -1,4 +1,4 @@
-<h1 align=center>☯Salam!☮</h1>
+<h1 align=center>☯ Salam! ☮</h1>
 <p align=center>I am an inquisitive epistemophile, I was named Sondos coincidentally. 
  Turned out to be a tech, art and philosophy Geek and became a social ideologies warrior in the way! (I will burst your filter bubble for you)
   I happen to be a Computer Science student in Birzeit University. Check out my pinned projects I worked on down there!👇🏾      
@@ -13,7 +13,7 @@
 <h1 align=center>👩🏾‍💻 Technologies And Tools 🔮</h1>
 
 <p align="center">
- <br>
+ <br/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/c36b5af2-b8dd-48c4-9d3e-76daaff90e63" alt="github" height="60"/>         
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/893bcce9-a383-4d8d-9d54-a377897a499f" alt="git" height="60"/>         
    <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/9321c1bb-2a76-43ba-ba88-054b5ecbf007" alt="vs" height="60"/>
@@ -26,10 +26,11 @@
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/069b5ca8-65ea-4502-a116-d310e6f5624d" alt="mysql" height="60"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/502df435-69e7-4f96-82d6-6395c5d7cea0" alt="html5" height="60"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/2f72c961-93cc-4db8-98d8-85f5ededc9bb" alt="css3" height="60"/>
+ <br/>
 </p>
 
 
-<h1 align=center>🧠Additional Pins!🫀</h1>
+<h1 align=center>🧠 Additional Pins! 🫀</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Nanodegree-Programming-for-Data-Science-with-Python)](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Deep-Learning-Track)](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=Advanced-Deep-Learning-with-Keras)](https://github.com/sondosaabed/Advanced-Deep-Learning-with-Keras)
