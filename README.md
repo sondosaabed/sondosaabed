@@ -17,7 +17,7 @@
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/c36b5af2-b8dd-48c4-9d3e-76daaff90e63" alt="github" height="100"/>         
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/893bcce9-a383-4d8d-9d54-a377897a499f" alt="git" height="100"/>         
    <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/9321c1bb-2a76-43ba-ba88-054b5ecbf007" alt="vs" height="100"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7cac00ba-91f1-4807-a5c3-636d1fb46466" alt="eclipse" height="100"/>
+  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7cac00ba-91f1-4807-a5c3-636d1fb46466" alt="eclipse" height="100"/><br/><br/>
    <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/0179d0e5-b68b-4a09-b360-4c7c1b5b711f" alt="android" height="100"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/3d04478a-cd3c-496d-bd00-d0deb5bc936f" alt="slack" height="100"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="100"/>
