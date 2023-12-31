@@ -6,9 +6,9 @@
 
 <div align=center> 
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark)](https://github.com/sondosaabed?tab=repositories)             
- ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=50px)         
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark)](https://github.com/sondosaabed?tab=repositories)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&card_width=950)](https://github.com/sondosaabed?tab=repositories)             
+ ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=950)         
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=950)](https://github.com/sondosaabed?tab=repositories)
 
 <h1 align=center>👩🏾‍💻Tools I Have Experience With 🔧🔮</h1>
 
