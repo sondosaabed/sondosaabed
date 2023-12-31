@@ -8,7 +8,7 @@
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&card_width=800)](https://github.com/sondosaabed?tab=repositories)             
  ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=800)         
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=700)](https://github.com/sondosaabed?tab=repositories)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/sondosaabed?tab=repositories)
 
 <h1 align=center>👩🏾‍💻Tools I Have Experience With 🔧🔮</h1>
 
