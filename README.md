@@ -2,6 +2,8 @@
 
 <div align=center> 
  
+ ![Free Palestine](https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
+ 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&card_width=800)](https://github.com/sondosaabed?tab=repositories)             
  ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=800)         
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/sondosaabed?tab=repositories)
