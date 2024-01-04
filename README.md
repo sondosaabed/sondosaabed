@@ -21,7 +21,7 @@
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/f640631e-8ba8-4134-9c21-a216623efed0" alt="tensorflow" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/6a85357b-e653-41a0-af80-8169424e8bf2" alt="firebase" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/47d65cac-88c2-4a77-9e3e-a80218746fbe" alt="java" height="90"/>
-   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/27ed48c8-9392-4e14-a997-28a958868443" alt="maven" height="90"/>
+   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/01814d4d-d52f-4b57-a28a-908856e41afa" alt="maven" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/4e66ceee-5390-4c3c-bac9-ce01f5e677b5" alt="gradle" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/069b5ca8-65ea-4502-a116-d310e6f5624d" alt="mysql" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/502df435-69e7-4f96-82d6-6395c5d7cea0" alt="html5" height="90"/>
@@ -38,10 +38,9 @@
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/ea65c1a9-8e60-4329-a63b-e23f4e848ec9" alt="postman" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/e6637bcc-3711-4797-8914-ddd4a4d82f3b" alt="selenium" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/0bbf005f-2a43-4ca2-b03c-546d4e2e8883" alt="flask" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/62a4f1b4-2e42-45cd-917b-9883f8c7db03" alt="junit" height="90"/>
+  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1ab9d343-efc3-448a-b6dc-a36ae1d98b91" alt="junit" height="90"/>
  <br/>
 </p>
-
 
 <h1 align=center>🧠 Additional Pins! 🫀</h1>
 
