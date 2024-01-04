@@ -34,14 +34,14 @@
 <h1 align=center>👩🏾‍💻 Technologies I've Been Exposed To 🌱🔮</h1>
 <p align="center">
   <br/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/a8290cef-6f53-4e84-847b-96afc31247f4" alt="linux" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/a09857de-84f8-41d5-a6e3-a085fb9f34aa" alt="laravel" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1ef96116-e53f-44f4-9290-085202c9f2c6" alt="php" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/ea65c1a9-8e60-4329-a63b-e23f4e848ec9" alt="postman" height="90"/>
+   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/ea65c1a9-8e60-4329-a63b-e23f4e848ec9" alt="postman" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/e6637bcc-3711-4797-8914-ddd4a4d82f3b" alt="selenium" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1109247a-ef6f-4e4b-94a8-5d8ee01a0487" alt="flask" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1ab9d343-efc3-448a-b6dc-a36ae1d98b91" alt="junit" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7d9bf0a2-8300-403c-b327-c05b19afe5de" alt="weka" height="90"/>
+  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/a8290cef-6f53-4e84-847b-96afc31247f4" alt="linux" height="90"/>
+   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1ef96116-e53f-44f4-9290-085202c9f2c6" alt="php" height="90"/>
+  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/a09857de-84f8-41d5-a6e3-a085fb9f34aa" alt="laravel" height="90"/>
+   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7d9bf0a2-8300-403c-b327-c05b19afe5de" alt="weka" height="90"/>
+   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1109247a-ef6f-4e4b-94a8-5d8ee01a0487" alt="flask" height="90"/>
  <br/>
 </p>
 
