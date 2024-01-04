@@ -39,6 +39,7 @@
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/e6637bcc-3711-4797-8914-ddd4a4d82f3b" alt="selenium" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/0bbf005f-2a43-4ca2-b03c-546d4e2e8883" alt="flask" height="90"/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1ab9d343-efc3-448a-b6dc-a36ae1d98b91" alt="junit" height="90"/>
+  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7d9bf0a2-8300-403c-b327-c05b19afe5de" alt="weka" height="90"/>
  <br/>
 </p>
 
