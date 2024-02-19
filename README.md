@@ -13,26 +13,26 @@
 <h1 align=center>👩🏾‍💻Tools I Have Experience With 🔧🔮</h1>
 
 <p align="center">
-  <br/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/3d240c37-04b1-40c5-8a51-8ecf8560a2ff" alt="github" height="90"/> 
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/893bcce9-a383-4d8d-9d54-a377897a499f" alt="git" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/9321c1bb-2a76-43ba-ba88-054b5ecbf007" alt="vs" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7cac00ba-91f1-4807-a5c3-636d1fb46466" alt="eclipse" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/0179d0e5-b68b-4a09-b360-4c7c1b5b711f" alt="android" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/3d04478a-cd3c-496d-bd00-d0deb5bc936f" alt="slack" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/38efb8b4-1a23-4334-b526-38d660fc412e" alt="python" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/f640631e-8ba8-4134-9c21-a216623efed0" alt="tensorflow" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/6a85357b-e653-41a0-af80-8169424e8bf2" alt="firebase" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/47d65cac-88c2-4a77-9e3e-a80218746fbe" alt="java" height="90"/>
-   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/01814d4d-d52f-4b57-a28a-908856e41afa" alt="maven" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/4e66ceee-5390-4c3c-bac9-ce01f5e677b5" alt="gradle" height="90"/>
-    <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/ea65c1a9-8e60-4329-a63b-e23f4e848ec9" alt="postman" height="90"/>
-    <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1109247a-ef6f-4e4b-94a8-5d8ee01a0487" alt="flask" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/069b5ca8-65ea-4502-a116-d310e6f5624d" alt="mysql" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/502df435-69e7-4f96-82d6-6395c5d7cea0" alt="html5" height="90"/>
-  <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/2f72c961-93cc-4db8-98d8-85f5ededc9bb" alt="css3" height="90"/>
-  <br/>
+<br/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/3d240c37-04b1-40c5-8a51-8ecf8560a2ff" alt="github" height="80"/> 
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/893bcce9-a383-4d8d-9d54-a377897a499f" alt="git" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/9321c1bb-2a76-43ba-ba88-054b5ecbf007" alt="vs" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/7cac00ba-91f1-4807-a5c3-636d1fb46466" alt="eclipse" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/0179d0e5-b68b-4a09-b360-4c7c1b5b711f" alt="android" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/3d04478a-cd3c-496d-bd00-d0deb5bc936f" alt="slack" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/38efb8b4-1a23-4334-b526-38d660fc412e" alt="python" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/f640631e-8ba8-4134-9c21-a216623efed0" alt="tensorflow" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/6a85357b-e653-41a0-af80-8169424e8bf2" alt="firebase" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/47d65cac-88c2-4a77-9e3e-a80218746fbe" alt="java" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/01814d4d-d52f-4b57-a28a-908856e41afa" alt="maven" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/4e66ceee-5390-4c3c-bac9-ce01f5e677b5" alt="gradle" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/ea65c1a9-8e60-4329-a63b-e23f4e848ec9" alt="postman" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/1109247a-ef6f-4e4b-94a8-5d8ee01a0487" alt="flask" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/069b5ca8-65ea-4502-a116-d310e6f5624d" alt="mysql" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/502df435-69e7-4f96-82d6-6395c5d7cea0" alt="html5" height="80"/>
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/2f72c961-93cc-4db8-98d8-85f5ededc9bb" alt="css3" height="80"/>
+<br/>
 </p>
 
 <h1 align=center>👩🏾‍💻 Technologies I've Been Exposed To 🌱🔮</h1>
