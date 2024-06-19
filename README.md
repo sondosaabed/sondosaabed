@@ -7,7 +7,7 @@
  [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&card_width=800)](https://github.com/sondosaabed?tab=repositories)             
- ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=800)         
+![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&count_private=true&theme=codeSTACKr&card_width=800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/sondosaabed?tab=repositories)
 
 <h1 align=center>👩🏾‍💻Tools I Have Experience With 🔧🔮</h1>
