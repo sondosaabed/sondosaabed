@@ -50,14 +50,16 @@
 
 <h1 align=center>🧠 Scholarships I've earned! 🫀</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Nanodegree-Programming-for-Data-Science-with-Python)](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Data-Analyst-Nanodegree)](https://github.com/sondosaabed/Data-Analyst-Nanodegree)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Nanodegree-Programming-for-Data-Science-with-Python)](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Data-Analyst-Nanodegree)](https://github.com/sondosaabed/Data-Analyst-Nanodegree)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)](https://github.com/sondosaabed/Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)
 
 
 <h1 align=center>🧠 Projects! 🫀</h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Iris-of-eyes-recognition)](https://github.com/sondosaabed/Iris-of-eyes-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Taskaty)](https://github.com/sondosaabed/Taskaty)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=PalTales)](https://github.com/sondosaabed/PalTales)
 
-<h1 align=center>🧠 Courses! 🫀</h1>
+<h1 align=center>🧠 Courses and Learning Tracks! 🫀</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Deep-Learning-Track)](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=Advanced-Deep-Learning-with-Keras)](https://github.com/sondosaabed/Advanced-Deep-Learning-with-Keras)
