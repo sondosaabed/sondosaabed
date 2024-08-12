@@ -11,7 +11,7 @@
 ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&count_private=true&theme=codeSTACKr&card_width=800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/sondosaabed?tab=repositories)
 
-<h1 align=center>👩🏾‍💻Tools I Have Experience With 🔧🔮</h1>
+<h2 align=center>👩🏾‍💻Tools I Have Experience With 🔧🔮</h2>
 
 <p align="center">
 <br/>
@@ -36,7 +36,7 @@
 <br/>
 </p>
 
-<h1 align=center>👩🏾‍💻 Technologies I've Been Exposed To 🌱🔮</h1>
+<h2 align=center>👩🏾‍💻 Technologies I've Been Exposed To 🌱🔮</h2>
 <p align="center">
   <br/>
   <img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/e6637bcc-3711-4797-8914-ddd4a4d82f3b" alt="selenium" height="50"/>
@@ -48,18 +48,17 @@
  <br/>
 </p>
 
-<h1 align=center>🧠 Scholarships I've earned! 🫀</h1>
-
+<h2 align=center>🧠 Scholarships I've earned! 🫀</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Nanodegree-Programming-for-Data-Science-with-Python)](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Data-Analyst-Nanodegree)](https://github.com/sondosaabed/Data-Analyst-Nanodegree)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)](https://github.com/sondosaabed/Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)
 
 
-<h1 align=center>🧠 Projects! 🫀</h1>
+<h2 align=center>🧠 Projects! 🫀</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Iris-of-eyes-recognition)](https://github.com/sondosaabed/Iris-of-eyes-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Taskaty)](https://github.com/sondosaabed/Taskaty)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=PalTales)](https://github.com/sondosaabed/PalTales)
 
-<h1 align=center>🧠 Courses and Learning Tracks! 🫀</h1>
+<h2 align=center>🧠 Courses and Learning Tracks! 🫀</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Data-Scientist-Track)](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Deep-Learning-Track)](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track)
