@@ -61,6 +61,7 @@
 
 <h1 align=center>🧠 Courses and Learning Tracks! 🫀</h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Data-Scientist-Track)](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Deep-Learning-Track)](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=DataCamp-Image-Processing-Track&theme=vision-friendly-dark)](https://github.com/sondosaabed/DataCamp-Image-Processing-Track)
 
