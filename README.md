@@ -48,10 +48,6 @@
  <br/>
 </p>
 
-<h2 align=center>🧠 Projects! 🫀</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Iris-of-eyes-recognition)](https://github.com/sondosaabed/Iris-of-eyes-recognition)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Taskaty)](https://github.com/sondosaabed/Taskaty)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=PalTales)](https://github.com/sondosaabed/PalTales)
 
 <h2 align=center>🧠 Scholarships I've earned! 🫀</h2>
 
@@ -62,5 +58,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Data-Scientist-Track)](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Deep-Learning-Track)](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=DataCamp-Image-Processing-Track&theme=vision-friendly-dark)](https://github.com/sondosaabed/DataCamp-Image-Processing-Track)
+
+<h2 align=center>🧠 Projects! 🫀</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Taskaty)](https://github.com/sondosaabed/Taskaty)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=PalTales)](https://github.com/sondosaabed/PalTales)
 
 </div> 
