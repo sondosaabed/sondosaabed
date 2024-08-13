@@ -53,6 +53,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Nanodegree-Programming-for-Data-Science-with-Python)](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Data-Analyst-Nanodegree)](https://github.com/sondosaabed/Data-Analyst-Nanodegree)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)](https://github.com/sondosaabed/Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=vision-friendly-dark&repo=MENA-TechSkill-Boost-Initiative)](https://github.com/sondosaabed/MENA-TechSkill-Boost-Initiative)
+
 <h2 align=center>🧠 Courses and Learning Tracks! 🫀</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&theme=codeSTACKr&repo=DataCamp-Data-Scientist-Track)](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track)
