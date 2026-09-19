@@ -36,7 +36,7 @@ I'm an **inquisitive epistemophile** who loves tech, art and philosophy. I studi
 
 A CNN that identifies **2,000 iris identities** (1,000 subjects × left/right eye) straight from lightly preprocessed eye images, with **no iris segmentation step**. It reaches **92.5% test accuracy** on CASIA-Iris-Thousand and is deployed to an **Android app** as TensorFlow Lite, with authentication (camera) and enrollment flows.
 
-`TensorFlow` `Keras` `OpenCV` `TFLite` `Android` `Biometrics`
+`TensorFlow` `Keras` `OpenCV` `TFLite` `Android` `Biometrics` ![Stars](https://img.shields.io/github/stars/sondosaabed/Iris-of-eyes-recognition?style=flat-square&logo=github&color=009736)
 
 [📓 Code](https://github.com/sondosaabed/Iris-of-eyes-recognition) · [🏆 Kaggle notebook](https://www.kaggle.com/code/sondosaabed/iris-eye-recognition-endtoend-93) · [📱 Android app](https://github.com/sondosaabed/IrisRecognizer)
 
@@ -46,7 +46,7 @@ A CNN that identifies **2,000 iris identities** (1,000 subjects × left/right ey
 
 A mobile app with an **Intelligent Character Recognition (ICR)** system that reads **Arabic handwriting** and returns the text as a document you can share, download and rename. The model side is an end-to-end, segmentation-free approach evaluated on the **KHATT** dataset, with a paper on ResearchGate.
 
-`Deep Learning` `Arabic OCR` `Mobile` `ICR`
+`Deep Learning` `Arabic OCR` `Mobile` `ICR` ![Stars](https://img.shields.io/github/stars/KhattTech/.github?style=flat-square&logo=github&color=009736)
 
 [📱 KhattTech](https://github.com/KhattTech) · [📄 Paper](https://www.researchgate.net/publication/381429976_An_End-to-End_Segmentation-Free_Arabic_Handwritten_Recognition_Model_on_KHATT)
 
@@ -56,7 +56,7 @@ A mobile app with an **Intelligent Character Recognition (ICR)** system that rea
 
 Predicts student success with a **linear regression** model behind a **Flask** web app, built on data analysis with outlier detection. Built during the Google Launchpad hackathon with a mentor's guidance.
 
-`Python` `pandas` `matplotlib` `Linear Regression` `Flask` `Hackathon`
+`Python` `pandas` `matplotlib` `Linear Regression` `Flask` `Hackathon` ![Stars](https://img.shields.io/github/stars/sondosaabed/PalTaqdeer?style=flat-square&logo=github&color=009736)
 
 <br/>
 
@@ -65,16 +65,6 @@ Predicts student success with a **linear regression** model behind a **Flask** w
 An app that **connects relatives with their missing loved ones** to ease the search, built for an AI competition.
 
 <br/>
-
-<div align="center">
-
-[![PalTaqdeer](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=PalTaqdeer&theme=vision-friendly-dark)](https://github.com/sondosaabed/PalTaqdeer)
-[![Iris](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=Iris-of-eyes-recognition&theme=vision-friendly-dark)](https://github.com/sondosaabed/Iris-of-eyes-recognition)
-
-[![Diabetes](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=Predicting-Diabetes-with-Decision-Trees&theme=vision-friendly-dark)](https://github.com/sondosaabed/Predicting-Diabetes-with-Decision-Trees)
-[![NICS](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=NICS-firearm-background-checks-investigation&theme=vision-friendly-dark)](https://github.com/sondosaabed/NICS-firearm-background-checks-investigation)
-
-</div>
 
 <details>
 <summary><b>📂 More projects (click to expand)</b></summary>
@@ -89,13 +79,6 @@ An app that **connects relatives with their missing loved ones** to ease the sea
 | [Taskaty](https://github.com/sondosaabed/Taskaty) | Task-management mobile app | Java, mobile |
 | [Palestine Cities Map](https://github.com/sondosaabed/Palestine-Cities-Map) | Map and graph project over Palestinian cities | Java |
 | [PalTales](https://github.com/sondosaabed/PalTales) | See the repo for details | - |
-
-<div align="center">
-
-[![Taskaty](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=Taskaty&theme=vision-friendly-dark)](https://github.com/sondosaabed/Taskaty)
-[![PalTales](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=PalTales&theme=vision-friendly-dark)](https://github.com/sondosaabed/PalTales)
-
-</div>
 
 </details>
 
@@ -151,20 +134,17 @@ An app that **connects relatives with their missing loved ones** to ease the sea
 | **May – Sep 2023** | 📈 **Udacity, Data Science** (Google scholarship): SQL, Python, version control, plus an AI hackathon (PalTaqdeer) |
 | **2015 – 2018** | 🗣️ **AMIDEAST English Access Microscholarship**: public speaking, leadership, community service |
 
-<div align="center">
+**📁 My learning repos**
 
-[![Programming for Data Science](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=Nanodegree-Programming-for-Data-Science-with-Python&theme=vision-friendly-dark)](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python)
-[![Data Analyst Nanodegree](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=Data-Analyst-Nanodegree&theme=vision-friendly-dark)](https://github.com/sondosaabed/Data-Analyst-Nanodegree)
-
-[![Google Cybersecurity](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=Cybersecurity-Professional-Google-Knoweldge4all-Scholarship&theme=vision-friendly-dark)](https://github.com/sondosaabed/Cybersecurity-Professional-Google-Knoweldge4all-Scholarship)
-[![MENA TechSkill Boost](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=MENA-TechSkill-Boost-Initiative&theme=vision-friendly-dark)](https://github.com/sondosaabed/MENA-TechSkill-Boost-Initiative)
-
-[![DataCamp Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=DataCamp-Deep-Learning-Track&theme=vision-friendly-dark)](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track)
-[![DataCamp Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=DataCamp-Image-Processing-Track&theme=vision-friendly-dark)](https://github.com/sondosaabed/DataCamp-Image-Processing-Track)
-
-[![DataCamp Data Scientist](https://github-readme-stats.vercel.app/api/pin/?username=sondosaabed&repo=DataCamp-Data-Scientist-Track&theme=vision-friendly-dark)](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track)
-
-</div>
+| Track | Repo |
+|---|---|
+| Programming for Data Science with Python (Nanodegree) | [Nanodegree-Programming-for-Data-Science-with-Python](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python) |
+| Data Analyst (Nanodegree) | [Data-Analyst-Nanodegree](https://github.com/sondosaabed/Data-Analyst-Nanodegree) |
+| Google Cybersecurity Professional (Knowledge4all scholarship) | [Cybersecurity-Professional-Google-Knoweldge4all-Scholarship](https://github.com/sondosaabed/Cybersecurity-Professional-Google-Knoweldge4all-Scholarship) |
+| MENA TechSkill Boost Initiative | [MENA-TechSkill-Boost-Initiative](https://github.com/sondosaabed/MENA-TechSkill-Boost-Initiative) |
+| DataCamp: Data Scientist track | [DataCamp-Data-Scientist-Track](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track) |
+| DataCamp: Deep Learning track | [DataCamp-Deep-Learning-Track](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track) |
+| DataCamp: Image Processing track | [DataCamp-Image-Processing-Track](https://github.com/sondosaabed/DataCamp-Image-Processing-Track) |
 
 ---
 
@@ -202,9 +182,9 @@ An app that **connects relatives with their missing loved ones** to ease the sea
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&card_width=800)](https://github.com/sondosaabed?tab=repositories)
 
-[![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&count_private=true&theme=vision-friendly-dark&card_width=800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/sondosaabed?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/sondosaabed?tab=repositories)
+![Followers](https://img.shields.io/github/followers/sondosaabed?style=for-the-badge&logo=github&color=009736&label=Followers)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsondosaabed&query=%24.public_repos&style=for-the-badge&logo=github&color=CE1126&label=Public%20repos)
+![Member since](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsondosaabed&query=%24.created_at&style=for-the-badge&logo=github&color=000000&label=Joined)
 
 </div>
 
