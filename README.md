@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
 
 <img src="assets/banner.png" alt="Sondos Aabed: Data Scientist, Deep Learning, Cybersecurity" width="100%"/>
@@ -12,6 +16,16 @@
 [![Email](https://img.shields.io/badge/Email-sondos%40duck.com-CE1126?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sondos@duck.com)
 
 </div>
+
+<p align="center">
+ <a href="https://www.star-history.com/sondosaabed">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=sondosaabed&year=2024&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=sondosaabed&year=2024" />
+   <img alt="Top Committer" src="https://api.star-history.com/badge?user=sondosaabed&year=2024" />
+  </picture>
+ </a>
+</p>
 
 ---
 
